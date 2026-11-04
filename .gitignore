@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+credentials.json
+token.json
+state.json
+job_tracker.xlsx
+sync_log.txt
